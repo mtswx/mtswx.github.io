@@ -1,0 +1,85 @@
+/*li {
+	color:blue;
+}*
+*h1,h3{
+	color:red;
+}*/
+/*The dot (.) signifies that it's styling a class
+  The hash (#) signifies that it's styling an id
+ */
+ /*h1{
+ 	color:red;
+ }
+ .bluecolor{
+ 	color:blue;
+ }
+ .greencolor{
+ 	color: #66c8dd;
+ 	font-size: 50;
+ }
+ #tagline{
+	color: yellow;
+	padding-top: -;
+    width: 200;
+    margin-left: 500;
+">To King's Landing</h3>
+ }
+ .welcome{
+ 	color:red;
+/*
+ }
+ /* <-- is a comment */
+ /* we can get other colours by looking at hexidecimals
+ h1 has box model diagram (4 parts)
+ Content area
+ Padding <-- push the content around*/
+ .card-title{
+ 	padding-left: 0px;
+ 	color: #ff9999;
+ }
+ .container{
+ 	border-style: ridge;
+ }
+ .img-circle{
+ 	    width: 150px;
+ }
+ .nav-link{
+ 	color: #f3f1f1
+ }
+.image1{
+  	width: 200px;
+    border-top-width: 10px;
+    padding-top: 10px;
+    border-right-width: 100px;
+    padding-bottom: 10px;
+ }
+ .image2{
+ 	width: 200px;
+    border-top-width: 10px;
+    padding-top: 10px;
+ }
+.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+.img:hover {
+    border: 1px solid #777;
+}
+.img img {
+    width: 100%;
+    height: auto;
+}
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+.navbar-brand{
+    padding-top: 10px;
+    font-size: 18;
+}
+.nav-link{
+    font-size: 14;
+    padding-right: 12px;
+}
