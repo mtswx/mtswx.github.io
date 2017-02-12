@@ -1,0 +1,25 @@
+/*li {
+	color:blue;
+}*
+*h1,h3{
+	color:red;
+}*/
+/*The dot (.) signifies that it's styling a class
+  The hash (#) signifies that it's styling an id
+ */
+ h1{
+ 	color:red;
+ }
+ .bluecolor{
+ 	color:blue;
+ }
+ .greencolor{
+ 	color: #ff99ff;
+ }
+ #tagline{
+	color: yellow;
+ }
+ /* <-- is a comment */
+ /* we can get other colours by looking at hexidecimals*/
+ /*control shift I on a webpage to find how developers do stuff*/
+ 
